@@ -1,0 +1,6 @@
+{
+  "name": "Arcana Sanctuary — Vicky's Tarot Journal & Live AI Reader",
+  "description": "Sacred digital tarot journal for Vicky with camera spread recognition, authentic Rider-Waite interpretations, live audio readings, and spiritual growth analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
